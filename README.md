@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 - 💻 **Full Stack Engineer** — I build end-to-end solutions, from clean frontends to robust backends.  
-- 🐍 Skilled in **Python & Django**, **SQL**, and modern JavaScript frameworks.  
+- 🐍 Skilled in **Python**, **SQL**, and modern **JavaScript** frameworks.  
 - ⚡ Strong believer in writing code that’s clean, maintainable, and user-focused.  
 - 🌱 Constantly learning — lately exploring **cloud services & advanced backend architectures**.
 
