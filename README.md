@@ -18,7 +18,7 @@
 
 ## 🛠 Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,python,django,nodejs,express,mongodb,mysql,postgres,cpp,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,python,nodejs,express,mongodb,mysql,postgres,cpp,git,github" />
 </p>
 
 ---
